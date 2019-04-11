@@ -1,0 +1,18 @@
+.titleDiv {
+  background-color: grey;
+}
+
+.jumbotron {
+  width: 100%;
+  margin: auto;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
