@@ -138,8 +138,9 @@ class App extends Component {
 
       console.log(this.state.message)
     }
-    else if (this.state.score === 3) {
-      this.setState({message: "Congratulations!"})
+    else if (this.state.score === 11) {
+      this.setState({message: "You Win! Congratulations!"})
+      
     }
     else {
       console.log("New url added, score increased");
